@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div className="container">
+      <div className="container text-center">
         <Titulo titulo="Exemplo padrão Vite + React" />
         <div className="text-center">
           <a href="https://vite.dev" target="_blank">

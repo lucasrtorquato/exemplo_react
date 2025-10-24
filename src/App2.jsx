@@ -9,7 +9,7 @@ import Cadastro from "./Cadastro.jsx";
 
 function AppExemplos() {
   return (
-    <div className="App">
+    <div className="App text-center">
       <Titulo titulo="Exemplo de Tabela"/>
       <Tabela />
       <Titulo titulo="Exemplo de Contador"/>
